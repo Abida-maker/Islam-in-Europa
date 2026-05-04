@@ -6,7 +6,7 @@ import requests
 
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Licht uit het Zuiden — Islamitisch Spanje",
+    page_title="De Gouden Eeuw van Al-Andalus",
     page_icon="🌙",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -912,7 +912,7 @@ with st.sidebar:
     st.markdown("""
     <div style="text-align:center;padding:16px 0 8px;">
         <div style="font-size:2.5rem">🌙</div>
-        <div style="font-family:'Amiri',serif;font-size:1.3rem;color:#E8C87A;">Licht uit het Zuiden</div>
+        <div style="font-family:'Amiri',serif;font-size:1.3rem;color:#E8C87A;">De Gouden Eeuw van Al-Andalus</div>
         <div style="font-size:.8rem;opacity:.5;margin-top:4px;">Al-Andalus Reisgids</div>
     </div>
     """, unsafe_allow_html=True)
@@ -940,7 +940,7 @@ with st.sidebar:
 st.markdown("""
 <div class="hero">
     <div class="hero-arabic">النور من الجنوب</div>
-    <h1 class="hero-title">Licht uit het Zuiden</h1>
+    <h1 class="hero-title">De Gouden Eeuw van Al-Andalus</h1>
     <p class="hero-sub">Ontdek de islamitische erfenis van Spanje · Al-Andalus Reisgids ✨</p>
 </div>
 """, unsafe_allow_html=True)
